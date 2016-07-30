@@ -1,2 +1,2 @@
 # SPA-AngularSite
-Single Page Web Application built with AngularJS
+Single Page Site built with AngularJS
